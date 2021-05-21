@@ -1,2 +1,2 @@
-module resultsExercise {
+module blackjack {
 }
