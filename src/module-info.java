@@ -1,2 +1,2 @@
-module calculator {
+module flowchart {
 }
