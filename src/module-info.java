@@ -1,2 +1,2 @@
-module blackjack {
+module uniqueSum {
 }
